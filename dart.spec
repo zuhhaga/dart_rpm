@@ -1,6 +1,6 @@
 Name:           dart
 Version:        3.1.0
-%define ver %{version}-309.0.dev
+%define ver %{version}-348.0.dev
 Release:        1%{?dist}
 Summary:        Dart SDK
 
